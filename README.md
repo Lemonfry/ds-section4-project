@@ -16,3 +16,6 @@
 
 2. 모델
 직접 만든 CNN 및 2개의 기존에 있던 모델(Resnet50, MobilenetV2) 사용
+
+section4 project_1 파일로 젠체 모델을 진행하다가 연결이 끊어져서 section4 project_2로 진행했습니다.
+최종 파일은 section4 project_2 입니다.
