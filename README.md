@@ -15,4 +15,4 @@
 유투브 2) https://www.youtube.com/watch?v=bzBWISpd09Q
 
 2. 모델
-직접 만든 CNN 및 3개의 기존에 있던 모델(Resnet50, MobilenetV2, InceptionV3) 사용
+직접 만든 CNN 및 2개의 기존에 있던 모델(Resnet50, MobilenetV2) 사용
