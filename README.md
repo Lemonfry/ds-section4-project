@@ -5,12 +5,12 @@
 1. 데이터
 
   * Kaggle Accident detection from CCTV footage - training 및 validation
-  
-  (https://www.kaggle.com/ckay16/accident-detection-from-cctv-footage/code)
+    
+    (https://www.kaggle.com/ckay16/accident-detection-from-cctv-footage/code)
   
   * Uncertainty-based Traffic Accident Anticipation with Spatio-Temporal Relational Learning 논문 데이터 - training, validation 및 test
-  
-  (https://github.com/Cogito2012/CarCrashDataset)
+    
+    (https://github.com/Cogito2012/CarCrashDataset)
 
   * 유투브의 교통사고 동영상 2개 - test
   
