@@ -21,5 +21,6 @@
 모델의 분류 정확도는 자작 모델 0.65, Resnet50 0.73, MoblienetV2 0.62로 나타났습니다.
 
 *주의
-section4 project_1 파일로 젠체 모델을 진행하다가 연결이 끊어져서 section4 project_2로 진행했습니다.
+
+*section4 project_1 파일로 젠체 모델을 진행하다가 연결이 끊어져서 section4 project_2로 진행했습니다.
 최종 파일은 section4 project_2 입니다.
